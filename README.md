@@ -5,7 +5,7 @@ This project was built to practice how to make a GUI program with Multithreading
 
 ## Technologies Used
 
-**Language:** Python, CSS
+**Language:** Python
 
 **Tools:** PyQt5, QThread, QtDesigner
 
